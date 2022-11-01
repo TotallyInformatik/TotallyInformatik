@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h3 align="center">German Student and Lead-Developer at Annette-von-Droste-Hülshoff Grammar. Leads the Project "Community-der-Informatischen-AGs"</h3>
 
 <h3 align="left">Connect with me:</h3>
