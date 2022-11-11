@@ -4,7 +4,7 @@ German Student :school_satchel: and **Lead-Developer** :sunglasses: at Annette-v
 
 ### Current Projects:
 
-:computer: Lead at "Annette-Softwaredevelopment" (software-development club at our school)
-
-:file_folder: [Community der Informatischen AGs](https://www.community-inf-ag.de/) "Founder" (bruh.)
+- :computer: "Annette-Softwaredevelopment" (software-development club at our school)
+-   bruh
+- :file_folder: [Community der Informatischen AGs](https://www.community-inf-ag.de/) "Founder" (bruh.)
 
