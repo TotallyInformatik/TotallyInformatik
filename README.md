@@ -1,4 +1,4 @@
-### (Rui Zhang)[https://website-totallyinformatik.vercel.app/]; Developer.
+### [Rui Zhang](https://website-totallyinformatik.vercel.app/); Developer.
 
 German Student and **Lead-Developer** at Annette-von-Droste-Hülshoff Grammar (I wish)... There is no such thing as a lead-developer at our school.
 
