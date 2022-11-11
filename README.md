@@ -1,3 +1,7 @@
 ### Rui Zhang; Developer.
-German Student and Lead-Developer at Annette-von-Droste-Hülshoff Grammar
 
+German Student and **Lead-Developer** at Annette-von-Droste-Hülshoff Grammar.
+At least I wish. There is no such thing as a lead-developer at our school.
+
+- Lead-Developer at "Annette-Softwaredevelopment" (software-development club at our school)
+- Community der Informatischen AGs "Founder" (bruh.)
