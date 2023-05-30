@@ -10,4 +10,4 @@ German Student :school_satchel: and **Lead-Developer** :sunglasses: at Annette-v
   - Book-Management Web-Application for our school
   - Online Form for our school's support association
   - "Annette-App" - [App Store](https://apps.apple.com/de/app/annette-app/id1451187713) - [Google Play Store](https://play.google.com/store/apps/details?id=eu.devstudios.annetteapp&gl=DE)
-- :file_folder: [Community der Informatischen AGs](https://www.community-inf-ag.de/) "Founder" (bruh.)
+- :file_folder: [Community der Informatischen AGs](https://www.community-inf-ag.de/) Founder
