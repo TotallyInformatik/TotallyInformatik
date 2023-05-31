@@ -1,6 +1,6 @@
 ### [Rui Zhang](https://website-totallyinformatik.vercel.app/); Developer.
 
-German Student :school_satchel: and **Lead-Developer** :sunglasses: at Annette-von-Droste-Hülshoff Grammar I write code and do programming for fun.
+German Student :school_satchel: and Lead-Developer :sunglasses: at Annette-von-Droste-Hülshoff Grammar I write code and do programming for fun.
 
 ### Current Projects:
 
