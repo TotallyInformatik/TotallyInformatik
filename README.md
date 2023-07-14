@@ -4,7 +4,7 @@ German Student :school_satchel: and Lead-Developer :sunglasses: at Annette-von-D
 
 ### Current Projects:
 
-- :computer: "Annette-Softwaredevelopment" (software-development club at our school)
+- :computer: "Annette-Softwaredevelopment" Founder (software-development club at our school)
   - [Club Website](https://entwicklung.annettegymnasium.de/)
   - Website for our school's student representation
   - Book-Management Web-Application for our school
